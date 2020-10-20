@@ -3,13 +3,13 @@
 * 🔖 **Obligation**
 * 🔖 **Implémentation**
 
-![image](./resources/form.jpg)
+![image](https://raw.githubusercontent.com/seeren-training/RGPD/master/wiki/resources/form.jpg)
 
 ___
 
 ## 📑 Obligation
 
-Les règles de consentement sont les mêmes que celles étudiées précédement.
+Les règles de consentement sont les mêmes que celles étudiées précédemment.
 
 🔗 [Référence](https://www.cnil.fr/fr/exemples-de-formulaire-de-collecte-de-donnees-caractere-personnel)
 
@@ -24,7 +24,7 @@ Pour qu'il soit valide le consentement doit:
 * Permettre à l’utilisateur de consentir par un acte positif clair
 * **Il vous faut vous souvenir de la preuve du consentement.**
 
-![image](./resources/form-ex1.jpg)
+![image](https://raw.githubusercontent.com/seeren-training/RGPD/master/wiki/resources/form-ex1.jpg)
 
 ___
 

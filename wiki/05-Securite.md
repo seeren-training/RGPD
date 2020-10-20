@@ -1,9 +1,9 @@
-# Securité
+# Sécurité
 
 * 🔖 **Obligation**
 * 🔖 **Implémentation**
 
-![image](./resources/security.jpg)
+![image](https://raw.githubusercontent.com/seeren-training/RGPD/master/wiki/resources/security.jpg)
 
 ___
 
@@ -25,9 +25,9 @@ ___
 ## 📑 Testing
 
 
-VOus devez vous appuyer sur un guide de conformité en sécurité et disposer d'un outil de penetration testing, ou faire des tests de pénétration par vous même.
+Vous devez vous appuyer sur un guide de conformité en sécurité et disposer d'un outil de penetration testing, ou faire des tests de pénétration par vous même.
 
-Dns le cadre de ce diplôme vous devez être sensible et savoir vous protéger sur les notions suivantes:
+Dns le cadre du titre que vous préparez vous devez être sensible et savoir vous protéger sur les notions suivantes:
 
 * Injection SQL
 * Injection XSS

@@ -13,9 +13,9 @@ ___
 
 * [RGPD](https://github.com/seeren-training/RGPD/wiki/01)
 * [Privacy policy](https://github.com/seeren-training/RGPD/wiki/02)
-* [Cookies](https://github.com/seeren-training/RGPD/wiki/04)
-* [Formulaires](https://github.com/seeren-training/RGPD/wiki/05)
-* [Sécurité](https://github.com/seeren-training/RGPD/wiki/08)
+* [Cookies](https://github.com/seeren-training/RGPD/wiki/03)
+* [Formulaires](https://github.com/seeren-training/RGPD/wiki/04)
+* [Sécurité](https://github.com/seeren-training/RGPD/wiki/05)
 
 ___
 

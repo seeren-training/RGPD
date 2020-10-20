@@ -1,61 +1,70 @@
-# Private Policy
+# Cookies
 
-*  🔖 **Cas de figure**
-*  🔖 **À quels moments**
-*  🔖 **Le format**
+*  🔖 **Obligation**
+*  🔖 **Implémentation**
 
-![image](./resources/policy.jpg)
+![image](https://raw.githubusercontent.com/seeren-training/RGPD/master/wiki/resources/cookie.jpg)
 
 ___
 
-## 📑 Cas de figure
+## 📑 Obligation
 
 Vous devez informer les personnes concernées :
 
-* En cas de collecte directe des données : lorsque les données sont recueillies directement auprès des personnes (exemples : formulaire, achat en ligne, souscription d’un contrat, ouverture d’un compte bancaire) ou lorsqu’elles sont recueillies via des dispositifs ou des technologies d’observation de l’activité des personnes (exemples : vidéosurveillance, analyse de la navigation sur Internet, géolocalisation et wifi analytics/tracking pour la mesure d’audience, etc.);
+Avant de déposer ou lire un cookie, les éditeurs de sites ou d'applications doivent :
+
+* Informer les internautes de la finalité des cookies.
+* Obtenir leur consentement (la durée de validité de ce consentement est de 13 mois maximum).
+* Fournir aux internautes un moyen de les refuser.
+
+
+Certains cookies sont cependant dispensés du recueil de ce consentement (ceux strictement nécessaires à la fourniture d'un service expressément demandé par l'utilisateur).
 
 * En cas de collecte indirecte des données personnelles : lorsque les données ne sont pas recueillies directement auprès des personnes (exemples : données récupérées auprès de partenaires commerciaux, de data brokers, de sources accessibles au public ou d’autres personnes).
 
-🔗 [Référence](https://www.cnil.fr/en/node/24281)
+🔗 [Référence](https://www.cnil.fr/fr/cookies-et-traceurs-comment-mettre-mon-site-web-en-conformite)
 
 ___
 
-## 📑 À quels moments
+## 📑 Implémentation
 
-* En cas de collecte directe : au moment du recueil des données.
 
-* En cas de collecte indirecte : dès que possible (notamment lors du 1er contact avec la personne concernée) et, au plus tard, dans le délai d’un mois (sauf exceptions).
+Pour qu'il soit valide le consentement doit:
 
-___
+* Informer l’utilisateur
+* Permettre à l’utilisateur de consentir par un acte positif clair
+* Permettre à l’utilisateur de faire un choix par finalité
+* Permettre à l’utilisateur d’exercer ses choix avec le même degré de simplicité 
+* Permettre à l’utilisateur de revenir sur sa décision à tout moment
+* **Il vous faut vous souvenir de la preuve du consentement.**
 
-## 📑 Le format
+![image](https://raw.githubusercontent.com/seeren-training/RGPD/master/wiki/resources/cookie-ex1.jpg)
 
-La personne concernée par un traitement de données doit recevoir une information délivrée : de façon concise, transparente, compréhensible et aisément accessible, en des tiermes clairs et simples.
+![image](https://raw.githubusercontent.com/seeren-training/RGPD/master/wiki/resources/cookie-ex2.jpg)
 
-![image](./resources/privacy-exemple.png)
 
-Par exemple, sur un site internet, vous pouvez utiliser un lien renvoyant directement vers la politique de protection des données, clairement visible sur chaque page du site, intitulé de manière claire (« Données personnelles » ou « Confidentialité » par exemple).
+### 🏷️ **La page du consentement**
 
-Cette politique de confidentialité doit être distincte des conditions générales de vente (CGV) ou des conditions générales d’utilisation (CGU) du site internet.
+Il faut également informer l'utilisateur su la finalité du cookie. Cela peut être sans une section dédiée de la page des mentions légales ou être un texte informatif après action.
 
-🔗 [Exemples](https://www.cnil.fr/fr/rgpd-exemples-de-mentions-dinformation) 
+#### **Exemple**
 
-___
+Les cookies sont des petits fichiers textes qui peuvent être utilisés par les sites Web pour rendre l'expérience utilisateur plus efficace.
 
-## 📑 Mentions
+La loi stipule que nous ne pouvons stocker des cookies sur votre appareil que s’ils sont strictement nécessaires au fonctionnement de ce site. Pour tous les autres types de cookies, nous avons besoin de votre permission.
 
-Les mentions suivantes doivent $etre inclues dans la Private policy.
+Ce site utilise différents types de cookies. Certains cookies sont placés par les services tiers qui apparaissent sur nos pages.
 
-* Conditions Générales d'Utilisation
-* [Conditions Générales de Vente]
-* Mentions d’informations des personnes concernées
+À tout moment, vous pouvez modifier ou retirer votre consentement dès la Déclaration relative aux cookies sur notre site Web.
 
-🔗 [Modèle](https://www.wonder.legal/fr/creation-modele/politique-confidentialite)
+En savoir plus sur qui nous sommes, comment vous pouvez nous contacter et comment nous traitons les données personnelles veuillez voir notre Politique confidentialité.
+
+Votre consentement s'applique aux domaines suivants : www.foo.com
 
 ___
 
 👨🏻‍💻 Manipulation
 
-Créez votre page de politique de confidentialité
+Implémentez le consentement des cookies
 
 ___
