@@ -4,11 +4,9 @@
 
 14 heures
 
-___
+## Public concerné
 
-## Prérequis
-
-Aucun
+Responsables de projets ou consultants.
 
 ___
 
