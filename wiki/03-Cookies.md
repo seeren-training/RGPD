@@ -3,7 +3,7 @@
 *  🔖 **Obligation**
 *  🔖 **Implémentation**
 
-![image](./resources/cookie.jpg)
+![image](https://raw.githubusercontent.com/seeren-training/RGPD/master/wiki/resources/cookie.jpg)
 
 ___
 
