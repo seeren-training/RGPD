@@ -1,4 +1,4 @@
-# Cookies
+# Private Policy
 
 *  🔖 **Obligation**
 *  🔖 **Implémentation**
@@ -17,17 +17,15 @@ Avant de déposer ou lire un cookie, les éditeurs de sites ou d'applications do
 * Obtenir leur consentement (la durée de validité de ce consentement est de 13 mois maximum).
 * Fournir aux internautes un moyen de les refuser.
 
-
 Certains cookies sont cependant dispensés du recueil de ce consentement (ceux strictement nécessaires à la fourniture d'un service expressément demandé par l'utilisateur).
 
 * En cas de collecte indirecte des données personnelles : lorsque les données ne sont pas recueillies directement auprès des personnes (exemples : données récupérées auprès de partenaires commerciaux, de data brokers, de sources accessibles au public ou d’autres personnes).
 
-🔗 [Référence](https://www.cnil.fr/fr/cookies-et-traceurs-comment-mettre-mon-site-web-en-conformite)
+[Référence](https://www.cnil.fr/fr/cookies-et-traceurs-comment-mettre-mon-site-web-en-conformite)
 
 ___
 
 ## 📑 Implémentation
-
 
 Pour qu'il soit valide le consentement doit:
 
@@ -36,7 +34,7 @@ Pour qu'il soit valide le consentement doit:
 * Permettre à l’utilisateur de faire un choix par finalité
 * Permettre à l’utilisateur d’exercer ses choix avec le même degré de simplicité 
 * Permettre à l’utilisateur de revenir sur sa décision à tout moment
-* **Il vous faut vous souvenir de la preuve du consentement.**
+* Il vous faut vous souvenir de la preuve du consentement.
 
 ![image](https://raw.githubusercontent.com/seeren-training/RGPD/master/wiki/resources/cookie-ex1.jpg)
 
@@ -65,6 +63,4 @@ ___
 
 👨🏻‍💻 Manipulation
 
-Implémentez le consentement des cookies
-
-___
+Implémentez le consentement des cookies.

@@ -21,9 +21,7 @@ Le cadre propose 9 points essentiels que nous définissons dans une première ap
 
 ### 🏷️ **Le consentement explicite**
 
-<p align="right">
-    <img src="https://raw.githubusercontent.com/seeren-training/RGPD/master/wiki/resources/consentement.jpg"  width="50%">
-</p>
+![image](https://raw.githubusercontent.com/seeren-training/RGPD/master/wiki/resources/consentement.jpg)
 
 Toute entité qui procède à la collecte et au traitement de données personnelles doit obtenir au préalable un accord écrit, clair et explicite des individus. 
 
@@ -31,9 +29,7 @@ Toute entité qui procède à la collecte et au traitement de données personnel
 
 ### 🏷️ **Le droit à l’effacement**
 
-<p align="left">
-    <img src="https://raw.githubusercontent.com/seeren-training/RGPD/master/wiki/resources/effacement.jpg"  width="50%">
-</p>
+![image](https://raw.githubusercontent.com/seeren-training/RGPD/master/wiki/resources/effacement.jpg)
 
 Cette acceptation peut être retirée à tout moment, sans qu’il ne soit besoin de donner la moindre justification. Le fait de retirer son accord n’affecte en aucune façon le traitement qui a été opéré pendant la période où il a été donné. La personne concernée a le droit d'obtenir du responsable du traitement l'effacement, dans les meilleurs délais, de données à caractère personnel la concernant et le responsable du traitement a l'obligation d'effacer ces données.
 
@@ -41,9 +37,7 @@ Cette acceptation peut être retirée à tout moment, sans qu’il ne soit besoi
 
 ### 🏷️ **Le droit à la portabilité**
 
-<p align="right">
-    <img src="https://raw.githubusercontent.com/seeren-training/RGPD/master/wiki/resources/portabilite.jpg"  width="50%">
-</p>
+![image](https://raw.githubusercontent.com/seeren-training/RGPD/master/wiki/resources/portabilite.jpg)
 
 Un individu « a le droit d’obtenir que ses données à caractère personnel soient transmises directement d’un responsable du traitement à un autre ». Naturellement, ces informations doivent être fournies « dans un format structuré, couramment utilisé et lisible par machine », afin que le transfert se fasse de façon automatisée et pas de manière manuelle.
 
@@ -51,9 +45,7 @@ Un individu « a le droit d’obtenir que ses données à caractère personnel s
 
 ### 🏷️ **Le profilage**
 
-<p align="left">
-    <img src="https://raw.githubusercontent.com/seeren-training/RGPD/master/wiki/resources/profile.jpg"  width="50%">
-</p>
+![image](https://raw.githubusercontent.com/seeren-training/RGPD/master/wiki/resources/profile.jpg)
 
 Il n’est pas admissible qu’une décision entraînant des conséquences sur un individu ne repose que sur des algorithmes. Une personne «  a le droit de ne pas faire l’objet d’une décision fondée exclusivement sur un traitement automatisé, y compris le profilage, produisant des effets juridiques la concernant ou l’affectant de manière significative de façon similaire ».
 
@@ -65,11 +57,7 @@ Cependant, cette consigne générale a plusieurs exceptions : si par exemple vou
 
 ### 🏷️ **Protection des données dès la conception**
 
-<p align="right">
-    <img src="https://raw.githubusercontent.com/seeren-training/RGPD/master/wiki/resources/owasp.png"  width="50%">
-</p>
-
-> **DevSec**
+![image](https://raw.githubusercontent.com/seeren-training/RGPD/master/wiki/resources/owasp.png)
 
 Le règlement européen définit le principe de « protection des données dès la conception » (en anglais : Privacy by design) qui impose aux organisations de prendre en compte des exigences relatives à la protection des données personnelles dès la conception des produits, services et systèmes exploitant des données à caractère personnel. De plus, **le règlement consacre la nouvelle règle de la « sécurité par défaut » qui impose à toute organisation de disposer d’un système d’information sécurisé**.
 
@@ -77,9 +65,7 @@ Le règlement européen définit le principe de « protection des données dès 
 
 ### 🏷️ **Les notifications en cas de piratage**
 
-<p align="left">
-    <img src="https://raw.githubusercontent.com/seeren-training/RGPD/master/wiki/resources/notification.jpg"  width="50%">
-</p>
+![image](https://raw.githubusercontent.com/seeren-training/RGPD/master/wiki/resources/notification.jpg)
 
 Le RGPD inclut un droit d’information en cas de piratage des données  : si une entreprise ou une organisation quelconque est victime d’un piratage de données de ses clients ou de tiers, elle devra immédiatement en informer l’autorité de protection des données — en France, c’est CNIL — et dans le cas où cette divulgation ne pose pas de problème de sécurité, en informer les principaux concernés.
 
@@ -87,9 +73,7 @@ Le RGPD inclut un droit d’information en cas de piratage des données  : si un
 
 ### 🏷️ **Délégué à la protection des données**
 
-<p align="right">
-    <img src="https://raw.githubusercontent.com/seeren-training/RGPD/master/wiki/resources/delegue.jpg"  width="50%">
-</p>
+![image](https://raw.githubusercontent.com/seeren-training/RGPD/master/wiki/resources/delegue.jpg)
 
 En cas de litige avec une entreprise située dans un autre pays, vous pouvez vous adresser à la Commission nationale de l’informatique et des libertés (CNIL) pour porter alors votre réclamation auprès de l’autorité de protection des données du pays dans lequel l’entreprise a son établissement principal.
 
@@ -97,9 +81,7 @@ En cas de litige avec une entreprise située dans un autre pays, vous pouvez vou
 
 ### 🏷️ **Action de groupe**
 
-<p align="left">
-    <img src="https://raw.githubusercontent.com/seeren-training/RGPD/master/wiki/resources/groupe.png"  width="50%">
-</p>
+![image](https://raw.githubusercontent.com/seeren-training/RGPD/master/wiki/resources/groupe.png)
 
 Avec le Règlement général sur la protection des données, les particuliers pourront être défendus par les associations dans le cadre d’une action de groupe en vue de faire cesser la partie illicite d’un traitement de données.
 
@@ -107,12 +89,8 @@ Avec le Règlement général sur la protection des données, les particuliers po
 
 ### 🏷️ **Les sanctions**
 
-<p align="right">
-    <img src="https://raw.githubusercontent.com/seeren-training/RGPD/master/wiki/resources/sanction.jpg"  width="50%">
-</p>
+![image](https://raw.githubusercontent.com/seeren-training/RGPD/master/wiki/resources/sanction.jpg)
 
 Le règlement donne aux régulateurs le pouvoir d'infliger des sanctions financières allant jusqu'à 4 % du chiffre d'affaires mondial annuel d'une entreprise ou 20 millions d'euros (le montant le plus élevé étant retenu), en cas de non-respect.
 
 > L'amende maximale était de 150 K euro et n'était pas suffisante pour contraindre les grands groupes à ce plier à cette réglementation.
-
-> Article 83

@@ -11,7 +11,7 @@ ___
 
 Les règles de consentement sont les mêmes que celles étudiées précédemment.
 
-🔗 [Référence](https://www.cnil.fr/fr/exemples-de-formulaire-de-collecte-de-donnees-caractere-personnel)
+[Référence](https://www.cnil.fr/fr/exemples-de-formulaire-de-collecte-de-donnees-caractere-personnel)
 
 ___
 
@@ -22,7 +22,7 @@ Pour qu'il soit valide le consentement doit:
 
 * Informer l’utilisateur
 * Permettre à l’utilisateur de consentir par un acte positif clair
-* **Il vous faut vous souvenir de la preuve du consentement.**
+* Il vous faut vous souvenir de la preuve du consentement.
 
 ![image](https://raw.githubusercontent.com/seeren-training/RGPD/master/wiki/resources/form-ex1.jpg)
 
@@ -30,6 +30,4 @@ ___
 
 👨🏻‍💻 Manipulation
 
-Implémentez le consentement des formulaires
-
-___
+Implémentez le consentement des formulaires.
