@@ -1,4 +1,4 @@
-# RGPD
+# RGPD - Avoir une compréhension fondamentale du RGPD
 
 ## Durée
 
